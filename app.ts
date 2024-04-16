@@ -8,5 +8,6 @@ let userName = "Mairakanwal" ;
 }*/
 
  userName == "Mairakanwal"
-?console.log("you are succesfully login") : console.log("invalid name")
+?console.log("you are successfully login") : console.log("invalid name")
+
 
